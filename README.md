@@ -21,8 +21,8 @@ I'm Haroon Bajwa, a passionate Full Stack Developer specializing in the MERN sta
 - Open-source contributions.
 
 ### 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [your-email@example.com](mailto:your-email@example.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 
 ### ⚡ Fun fact
 - I love solving complex problems and learning new technologies.
